@@ -1,10 +1,3 @@
-'''
-Full Name: Rithvik Shetty
-ID: 917972721
-Date: 4/14/22
-Filename: A4_Shetty_Rithvik_rjs7085
-Purpose: A4
-'''
 
 class MyDict:
     def __init__(self):
